@@ -1,0 +1,28 @@
+<svg width="824" height="1200" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="1202" width="826" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text transform="matrix(2.76767, 0, 0, 5.28903, -114.014, -157.715)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="58.44998" x="64.5" stroke-width="0" stroke="#000" fill="#000000"/>
+  <text transform="matrix(3.46911, 0, 0, 3.46911, -159.257, -70.9392)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="50.44998" x="91.96127" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Server Status</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="64" id="svg_3" y="259.98371" x="187.21698" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">CPU</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="64" id="svg_4" y="347.98372" x="173.01697" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">MEM</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="64" id="svg_5" y="435.9837" x="119.5003" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Upload</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="64" id="svg_6" y="524.98373" x="37.68364" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Download</text>
+  <text transform="matrix(2.14469, 0, 0, 2.14469, -144.804, -224.148)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="477.16116" x="80.3709" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Active Web Connections</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="64" id="svg_8" y="259.9837" x="437.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">S1</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="64" id="svg_9" y="347.9837" x="437.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">S2</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="64" id="svg_10" y="435.9837" x="437.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">S3</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="64" id="svg_11" y="524.9837" x="437.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">S4</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="64" id="svg_12" y="890.9837" x="27.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">S5</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="32" id="svg_13" y="1157.44998" x="27.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Last Updated</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="32" id="svg_14" y="1157.44998" x="265.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">S6</text>
+  <path opacity="0" id="svg_15" d="m491.20775,669.81078l-21.73552,-35.91107c-6.55318,-10.8235 -17.2718,-28.54243 -23.82502,-39.36803l-21.73349,-35.90889c-6.55968,-10.82985 -17.2783,-10.82985 -23.8293,0l-21.72908,35.90889c-6.55318,10.82559 -17.27833,28.54865 -23.82935,39.36803l-21.7313,35.91107c-6.55317,10.83394 -1.18946,19.6892 11.9147,19.6892l134.57066,0c13.11725,0 18.47431,-8.85527 11.92769,-19.6892l0.00001,0zm-73.00224,5.55931l-12.89127,0l0,-11.80761l12.89127,0l0,11.80761zm-0.62107,-20.50792l-11.63812,0l-1.15659,-50.52042l13.8481,0l-1.05338,50.52042l-0.00001,0z" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000"/>
+ </g>
+</svg>

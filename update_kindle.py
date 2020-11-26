@@ -22,9 +22,9 @@ def human_bytes(num, is_kibi=True, suffix='B'):
 
     for unit in units:
         if abs(num) < byte_scale:
-            return "%3.1f%s%s" % (num, unit, suffix)
+            return "%3.1f%s%s%s" % (num, unit, suffix, 'ps')
         num /= byte_scale
-    return "%.1f%s%s" % (num, 'Y', suffix)
+    return "%.1f%s%s%s" % (num, 'Y', suffix, 'ps')
 
 def usbnet_ready():
     for netdev in os.listdir("/sys/class/net/"):
